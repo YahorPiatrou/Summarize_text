@@ -6,7 +6,6 @@ The project repository contains the following files:
 - `models.py` — this file contains the project functionality, with the help of which the text is summarized, as well as reading text from a file;
 - `app.py` — this file is the entry point of the project, containing the code for building a web application using the gradio library;
 - `.gitattributes` — configuration file git, created automatically when the repository was initialized. Doesn't store important information, can be deleted;
-- `__pycache__` — system folder python which contains .pyc files created during the execution of scripts;
 - `requirements.txt` — a text file that contains a list of all dependencies (packages & libraries) required for the project to work;
 - `README.md` — description of the project and used technologies.
 
